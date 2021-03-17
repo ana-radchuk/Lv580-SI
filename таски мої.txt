@@ -120,6 +120,7 @@ Part 2
 Там найдете щиру правду,
 А ще, може, й славу...
 
+<<<<<<< HEAD
 
 Vlad Pasemko
 
@@ -242,4 +243,4 @@ Part 2
 
 Anastasia Radchuk
 Oles Sukmanovskyi
-
+Denys Kravets
